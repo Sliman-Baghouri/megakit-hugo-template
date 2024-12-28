@@ -27,6 +27,7 @@ collections_config:
       - visual
     
     _inputs: 
+      instance_value: UUID
       categories: 
         type: array
       categories[*]:
