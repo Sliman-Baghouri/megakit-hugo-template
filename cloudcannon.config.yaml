@@ -27,6 +27,10 @@ collections_config:
       - visual
     
     _inputs: 
+      title:
+        label: "serpTitle"
+        comment: "Use for SERP Title"
+        cascade: true
       instance_value: UUID
       categories: 
         type: array
