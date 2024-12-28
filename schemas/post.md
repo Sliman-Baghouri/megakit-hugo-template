@@ -1,6 +1,6 @@
 ---
 date: 
-datecreated:
+uuid:
 title: 
 description:
 categories: 
@@ -11,10 +11,11 @@ seo_options:
   featured_image: 
   og_type: article
   canonical_link:
+
 _inputs:
-    datecreated:
+    uuid:
         type: auto
-        label: "date of article creation"
+        label: "uuid of article creation"
         comment: "Use for instant value "
         hidden: false   
         instance_value: UUID

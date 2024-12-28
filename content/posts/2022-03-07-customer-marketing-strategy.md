@@ -1,5 +1,6 @@
 ---
 date: 2022-03-07
+uuid: 0944cd76-9c83-4cd4-9a86-82063abe7d4b
 title: Customer marketing strategy
 description:
 categories:

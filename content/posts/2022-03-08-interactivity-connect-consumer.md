@@ -1,5 +1,6 @@
 ---
 date: 2022-03-08
+uuid: a2ad34fc-1f2c-4ff4-9015-75933faa1266
 title: Connecting to the consumer
 description:
 categories:
