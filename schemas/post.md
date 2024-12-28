@@ -15,9 +15,7 @@ seo_options:
 _inputs:
     uuid:
         type: auto
-        label: "uuid of article creation"
-        comment: "Use for instant value "
-        hidden: false   
+        hidden: true   
         instance_value: UUID
         cascade: true
 ---
