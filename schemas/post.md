@@ -17,7 +17,7 @@ _inputs:
         label: "date of article creation"
         comment: "Use for instant value "
         hidden: false   
-        instance_value: NOW
+        instance_value: UUID
         cascade: true
 ---
 Enter your content here
