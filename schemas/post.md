@@ -12,8 +12,12 @@ seo_options:
   og_type: article
   canonical_link:
 _inputs:
-    title:
-        label: "serpTitle"
-        comment: "Use for SERP Title"
+    datecreated:
+        type: auto
+        label: "date of article creation"
+        comment: "Use for instant value "
+        hidden: false   
+        instance_value: NOW
+        cascade: true
 ---
 Enter your content here
